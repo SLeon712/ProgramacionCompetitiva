@@ -1,7 +1,7 @@
 #include<vector>
 #include<stdio.h>
 typedef std::vector<int> vi;
-
+    //XD
 std::vector<vi> AdjList;
 vi dfs_num;
 
